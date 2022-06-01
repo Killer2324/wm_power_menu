@@ -11,7 +11,7 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Shutdown")
-        self.setFixedSize(200, 240)
+        self.setFixedSize(200, 228)
         # Prve dve cifre označavaju gde da se
         # app pojavi na ekranu X*Y. Druge dve su veličina prozora
         #self.setGeometry(850, 400, 200, 240)
