@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python ~/.config/qtile/wm_power_menu.py
