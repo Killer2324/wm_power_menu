@@ -6,3 +6,6 @@ Put wm_power_menu in some DIR and make bash script for starting, somethin like t
 python /path_to_the_dir/wm_power_menu.py
 
 Now you can put that script in /usr/local/bin or any #PATH of your system...
+
+
+P.S. You need to have installed python-pyqt5 (arch package name).
