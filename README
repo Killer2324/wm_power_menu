@@ -1,0 +1,8 @@
+Simple python + qt5 powermenu. Made for myself for using in QTILE....
+
+Put wm_power_menu in some DIR and make bash script for starting, somethin like this:
+
+#!/bin/bash
+python /path_to_the_dir/wm_power_menu.py
+
+Now you can put that script in /usr/local/bin or any #PATH of your system...
