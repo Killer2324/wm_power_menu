@@ -15,6 +15,11 @@ cd /usr/bin
 sudo mv $HOME/directory/wm_power_menu/py .
 ```
 
+Open a new Terminal
+```
+wm_power_menu.py
+```
+
 Call wm_power_menu any way you want... :)
 
 P.S. You need to have installed python-pyqt5 (arch package name).
