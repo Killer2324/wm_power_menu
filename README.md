@@ -2,11 +2,18 @@
 
 Simple python + qt5 powermenu. Made for myself for using in QTILE....
 
-Put wm_power_menu in some DIR which is in yours executable path...
+Convert the file in executable
 
-Maybe you need to make it executable:
+```
+chmod +x wm_power_menu.py
+```
 
-chmod +x wm_power_menu
+Put wm_power_menu.py in `/usr/bin/`
+
+```
+cd /usr/bin
+sudo mv $HOME/directory/wm_power_menu/py .
+```
 
 Call wm_power_menu any way you want... :)
 
